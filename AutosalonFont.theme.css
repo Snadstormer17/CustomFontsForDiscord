@@ -1,0 +1,73 @@
+/**
+* @name AutosalonFont
+* @author sandstorm#5661
+* @description Adds the Autosalon font to Discord
+* @version 1.0.0
+* @source https://github.com/Snadstormer17/CustomFontsForDiscord
+*/
+
+:root {
+  --font-primary: HemiHeadRg-BoldItalic,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  --font-display: HemiHeadRg-BoldItalic,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: normal;
+  font-weight: 300;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: italic;
+  font-weight: 300;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: normal;
+  font-weight: 400;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: italic;
+  font-weight: 400;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: normal;
+  font-weight: 500;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: italic;
+  font-weight: 500;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: normal;
+  font-weight: 600;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: italic;
+  font-weight: 600;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: normal;
+  font-weight: 700;
+  src: local(HemiHeadRg-BoldItalic);
+}
+@font-face {
+  font-family: HemiHeadRg-BoldItalic;
+  font-style: italic;
+  font-weight: 700;
+  src: local(HemiHeadRg-BoldItalic);
+}

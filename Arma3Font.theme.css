@@ -1,0 +1,73 @@
+/**
+* @name Arma3Font
+* @author sandstorm#5661
+* @description Adds the Arma 3 font to Discord
+* @version 1.0.0
+* @source https://github.com/Snadstormer17/CustomFontsForDiscord
+*/
+
+:root {
+  --font-primary: purista-medium,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  --font-display: purista-medium,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+
+@font-face {
+  font-family: purista-medium;
+  font-style: normal;
+  font-weight: 300;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: italic;
+  font-weight: 300;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: normal;
+  font-weight: 400;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: italic;
+  font-weight: 400;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: normal;
+  font-weight: 500;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: italic;
+  font-weight: 500;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: normal;
+  font-weight: 600;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: italic;
+  font-weight: 600;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: normal;
+  font-weight: 700;
+  src: local(purista-medium);
+}
+@font-face {
+  font-family: purista-medium;
+  font-style: italic;
+  font-weight: 700;
+  src: local(purista-medium);
+}

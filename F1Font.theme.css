@@ -1,0 +1,73 @@
+/**
+* @name F1Font
+* @author sandstorm#5661
+* @description Adds the Formula 1 font to Discord
+* @version 1.0.0
+* @source https://github.com/Snadstormer17/CustomFontsForDiscord
+*/
+
+:root {
+  --font-primary: Formula1 Display-Regular,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  --font-display: Formula1 Display-Regular,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: normal;
+  font-weight: 300;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: italic;
+  font-weight: 300;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: italic;
+  font-weight: 400;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: normal;
+  font-weight: 500;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: italic;
+  font-weight: 500;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: normal;
+  font-weight: 600;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: italic;
+  font-weight: 600;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: normal;
+  font-weight: 700;
+  src: local(Formula1 Display-Regular);
+}
+@font-face {
+  font-family: Formula1 Display-Regular;
+  font-style: italic;
+  font-weight: 700;
+  src: local(Formula1 Display-Regular);
+}
